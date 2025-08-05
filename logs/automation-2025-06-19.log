@@ -1,0 +1,59 @@
+18:43:55.214 [main] INFO  testCases.TC002_LoginTest - **** Starting execution TC002_LoginTest *****
+18:43:56.674 [main] INFO  testCases.TC002_LoginTest - **** Finished execution TC002_LoginTest *****
+18:51:41.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse Workspace\OpencartV33\grouping.xml
+
+18:51:43.388 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:51:43.493 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link...
+18:51:43.803 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+18:51:43.805 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:51:44.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:51:44.922 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:51:46.829 [main] INFO  testCases.TC002_LoginTest - **** Starting execution TC002_LoginTest *****
+19:07:04.850 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse Workspace\OpencartV33\test-output\testng-failed.xml
+
+19:07:07.192 [main] INFO  testCases.TC002_LoginTest - **** Starting execution TC002_LoginTest *****
+19:07:08.338 [main] INFO  testCases.TC002_LoginTest - **** Finished execution TC002_LoginTest *****
+00:00:48.938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse Workspace\OpencartV33\master.xml
+
+00:00:56.597 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:00:56.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link...
+00:00:56.998 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+00:00:57.001 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:00:57.537 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+00:00:58.241 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+00:01:00.255 [main] INFO  testCases.TC002_LoginTest - **** Starting execution TC002_LoginTest *****
+00:01:01.413 [main] INFO  testCases.TC002_LoginTest - **** Finished execution TC002_LoginTest *****
+00:01:04.536 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:01:06.102 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT ******
+00:01:06.108 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:01:16.631 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT ******
+00:01:16.635 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:01:27.343 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:01:38.338 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT ******
+00:01:38.343 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:01:49.532 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT ******
+00:01:49.539 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT ******
+00:02:00.738 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT ******
+00:06:24.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse Workspace\OpencartV33\master.xml
+
+00:06:26.931 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:06:27.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link...
+00:06:27.350 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+00:06:27.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:06:27.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+00:06:28.598 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+00:06:30.551 [main] INFO  testCases.TC002_LoginTest - **** Starting execution TC002_LoginTest *****
+00:06:31.770 [main] INFO  testCases.TC002_LoginTest - **** Finished execution TC002_LoginTest *****
+00:09:55.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse Workspace\OpencartV33\master.xml
+
+00:09:57.757 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:09:57.884 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link...
+00:09:58.202 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+00:09:58.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:09:59.929 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+00:09:59.968 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
